@@ -14,7 +14,7 @@ int main()
     {
         printf("plz enter the score of the subject number %d\n",i+1);
         scanf("%d",&arr[i]);
-
+         printf("kill switch\n");
        sum+=arr[i];
 
     }
