@@ -16,7 +16,7 @@ int main()
         scanf("%d",&arr[i]);
          printf("kill switch\n");
        sum+=arr[i];
-
+       printf("بسم الله الرحمن الرحيم\n");
     }
     avg=(float)sum/x;
     printf("%f",avg);
